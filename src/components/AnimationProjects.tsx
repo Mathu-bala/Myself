@@ -4,7 +4,7 @@ import { Play, ExternalLink } from 'lucide-react';
 const AnimationProjects = () => {
   const projects = [
     {
-      title: "Mermaid Disney Concept",
+  
       description: "A magical underwater adventure featuring Disney-style character animation",
       image: "https://images.pexels.com/photos/1076758/pexels-photo-1076758.jpeg?auto=compress&cs=tinysrgb&w=400"
     },
